@@ -107,6 +107,12 @@ The AMM contract inherits OpenZeppelin's ERC20, making the contract itself the L
 - [Foundry](https://book.getfoundry.sh/) — build, test, deploy
 - [OpenZeppelin](https://openzeppelin.com/contracts/) — ERC20, IERC20, Math
 
+## Deployments
+
+| Network | Contract        | Address                                      |
+| ------- | --------------- | -------------------------------------------- |
+| Sepolia | AMM (WETH/USDC) | `0x45182fe5c2C6437E1B2c60DeA593A433a3046E32` |
+
 ## Getting Started
 
 ```bash
